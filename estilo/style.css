@@ -54,7 +54,7 @@ header{
 header > h1{
     color:white;
     font-family: var(--font-sec);
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     font-size: 3em;
     text-shadow: 1px 1px 1px black;
 }
